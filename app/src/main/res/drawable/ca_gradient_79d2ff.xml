@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--孕晚期-->
+    <gradient
+        android:angle="90"
+        android:startColor="#ffffff"
+        android:endColor="#79D2FF" />
+</shape>
