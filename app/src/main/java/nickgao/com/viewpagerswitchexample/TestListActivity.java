@@ -33,8 +33,6 @@ public class TestListActivity extends Activity implements AdapterView.OnItemClic
         list.add("chat图片");
         list.add("LineChartActivity1");
         list.add("LineChartActivity2");
-        list.add("LineChartActivity3");
-        list.add("LineChartDemoActivity");
 
         return list;
     }
